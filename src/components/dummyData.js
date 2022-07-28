@@ -54,7 +54,7 @@ export const userRows = [
     id: 1,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -63,7 +63,7 @@ export const userRows = [
     id: 2,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -72,7 +72,7 @@ export const userRows = [
     id: 3,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -81,7 +81,7 @@ export const userRows = [
     id: 4,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -90,7 +90,7 @@ export const userRows = [
     id: 5,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -99,7 +99,7 @@ export const userRows = [
     id: 6,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -108,7 +108,7 @@ export const userRows = [
     id: 7,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -117,7 +117,7 @@ export const userRows = [
     id: 8,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -126,7 +126,7 @@ export const userRows = [
     id: 9,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -135,7 +135,7 @@ export const userRows = [
     id: 10,
     username: "Jon Snow",
     avatar:
-      "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://i.pinimg.com/474x/e4/99/2e/e4992ec575d9741b2f9670a054f1e2a2.jpg",
     email: "jon@gmail.com",
     status: "active",
     transaction: "$120.00",
